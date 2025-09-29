@@ -61,19 +61,27 @@ plt.show()
 ### OUTPUT:
 
 GIVEN DATA
+
+
 <img width="405" height="115" alt="image" src="https://github.com/user-attachments/assets/4dbc9944-bf52-40b9-8bf3-4e66fb1167d4" />
 
 
 PACF - ACF
+
+
 <img width="568" height="435" alt="TS EXP 7 PIC" src="https://github.com/user-attachments/assets/404448e7-5b0f-411b-8520-f71613c10603" />
 <img width="568" height="435" alt="TS EXP 7 PIC2" src="https://github.com/user-attachments/assets/a9ecde43-e0c8-4084-9e55-6c066d8fc7d4" />
 
 
 PREDICTION
+
+
 <img width="304" height="20" alt="image" src="https://github.com/user-attachments/assets/496eaf15-3ba5-434f-9dea-bb16a86323ab" />
 
 
 FINIAL PREDICTION
+
+
 <img width="831" height="451" alt="TS EXP 7 PIC3" src="https://github.com/user-attachments/assets/c98d615b-6030-4189-bd51-38a959777d67" />
 
 
